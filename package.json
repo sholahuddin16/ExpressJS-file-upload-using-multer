@@ -1,0 +1,25 @@
+{
+  "name": "expressjs-file-upload-using-multer",
+  "version": "1.0.0",
+  "description": "Node.js Express Rest APis to Upload/Download Files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "upload",
+    "download",
+    "file",
+    "multipart",
+    "rest api",
+    "express"
+  ],
+  "author": "Muhammad Sholahuddin",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
